@@ -54,7 +54,7 @@ This project runs models locally and thus for the larger models, I recommend hav
 ### Install
 
 ```bash
-git clone (https://github.com/ButterflyLabs-org/Interpretability-Explorer.git
+git clone https://github.com/ButterflyLabs-org/Interpretability-Explorer.git
 cd interpretability-explorer
 python -m venv .venv
 source .venv/bin/activate 
